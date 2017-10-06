@@ -1,0 +1,7 @@
+Summary of the whole dataset 
+data dim:(30630, 8)
+Proportion of duplicated rows is 0.0
+Proportion of blank rows is 0.0
+,Date,Genre,artist,lastPos,peakPos,rank,title,weeks
+missing_values,0.0,0.0,0.0,0.16976820111002286,0.16976820111002286,0.0,0.0,0.16976820111002286
+out_of_range_values,0.0,0.0,0.0,0.08077048645119164,0.048253346392425726,0.1909892262487757,0.0,0.0
