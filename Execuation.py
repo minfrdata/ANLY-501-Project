@@ -16,6 +16,9 @@ import sys
 
 def main(argv):
 	"""we will check the cleanliness of two datasets in this part.
+	two datasets:
+	track_full.csv
+	billboardranking.csv
  
 	the cleanliness check result will be save into 2 csv, so you can have a look at the summary and scores 
 	for the data.
@@ -44,7 +47,7 @@ def main(argv):
 	category_range={"mode":[0,1]}
 	mymin=[np.nan, np.nan, np.nan, 0.01,np.nan,np.nan,0, np.nan, np.nan, 0, 0, 0, 0,0, 0, -60, np.nan, 0, 0.01,0.01, 0]
 	mymax=[np.nan, np.nan, np.nan, 99999999,np.nan,np.nan,99999999, np.nan, np.nan, 1, 1, 1, 1,11, 1, 0, np.nan, 1, 999999999,999999999, 1]
-	FileName="track_full_chill.csv"	
+	FileName="track_full.csv"	
 	mySpotify=cleanCheck(col_names,FileName,colname_selection)	
 	mySpotify.QualityControl(mymin,mymax,col_categorical,category_range)
 	     
