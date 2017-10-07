@@ -1,0 +1,30 @@
+0,Top Lists
+1,Chill
+2,Mood
+3,Pop
+4,Electronic
+5,Hip-Hop
+6,Party
+7,Rock
+8,Workout
+11,Dinner
+12,Sleep
+13,Indie
+14,R&B
+15,Trending
+16,Metal
+17,Soul
+18,Romance
+19,Jazz
+20,Classical
+21,Latin
+22,Country
+23,Folk & Americana
+24,Blues
+25,Travel
+26,Kids
+27,Reggae
+28,Gaming
+29,Punk
+30,Funk
+31,Comedy
