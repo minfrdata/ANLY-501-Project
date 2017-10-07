@@ -1,0 +1,9 @@
+Summary of the whole dataset ,,,,,,,,
+data dim:(30630, 8),,,,,,,
+Proportion of duplicated rows is 0.0,,,,,,,,
+Proportion of blank rows is 0.0,,,,,,,,
+,Date,Genre,artist,lastPos,peakPos,rank,title,weeks
+0,0,0,0,0.169768201,0.169768201,0,0,0.169768201
+1,0,0,0,0.080770486,0.048253346,0.190989226,0,0
+logical_test,0,0,0,0.102024159,0.102024159,0,0,0
+total score,100,100,100,87.70551747,89.16878877,91.40548482,100,92.36043095
