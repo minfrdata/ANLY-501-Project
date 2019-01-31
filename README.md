@@ -1,6 +1,6 @@
 # ANLY-501-Project
 Include is the files need for ANLY 501 project 
-Group member: Cheng Zhong, Tian Yang, Min Xiao
+Group member:  Min Xiao,Cheng Zhong, Tian Yang
 
 ProjectScrape_Spotify.py is the python code used for scrape the data from Spotify using Spotify API
 categories.txt is the key word list we used to scrape data from Spotify
